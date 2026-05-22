@@ -1,0 +1,6 @@
+{
+  "name": "تعريب ألعاب Steam والمنصات",
+  "description": "منصة شاملة تحتوي على أكثر من 900 تعريب لألعاب Steam ومختلف منصات الألعاب مع واجهة بحث وميزة التحميل المباشر ومساعد ذكي بالذكاء الاصطناعي لكتابة وتوليد التعريبات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

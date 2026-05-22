@@ -1,0 +1,21 @@
+{
+  "short_name": "مُعرب الألعاب",
+  "name": "بوابة مُعرب الألعاب لتوطين الألعاب",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/512/gamepad.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://img.icons8.com/color/192/gamepad.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0d1117",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait"
+}
